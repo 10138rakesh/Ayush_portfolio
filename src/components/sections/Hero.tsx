@@ -117,7 +117,7 @@ export function Hero() {
                 style={{ background: "linear-gradient(135deg, #0ea5e9, #a855f7, #10b981) border-box" }}>
                 <div className="absolute inset-0 rounded-full overflow-hidden ring-4 ring-neon-teal/40 group-hover:ring-neon-teal/80 transition-all duration-500">
                   <img
-                    src="https://images.unsplash.com/photo-1549692520-acc6669e2f0c?q=80&w=1500&auto=format&fit=crop"
+                    src="/profile.jpg"
                     alt="Ayush Dobriyal"
                     className="w-full h-full object-cover object-top scale-100 group-hover:scale-105 transition-transform duration-700"
                   />
